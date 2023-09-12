@@ -1,6 +1,8 @@
 # Aquifer-TimeSeries-Analysis-Visualization
 Aquifer Time Series Analysis and Visualization
+
 ![Untitled](https://github.com/stevengash/Aquifer-TimeSeries-Analysis-Visualization/assets/99188129/cdfa4b29-335f-46b4-aaa8-af88b8714e81)
+
 This repository contains Python code for analyzing and visualizing Aquifer data, specifically data from the Aquifer of Petrignano in Italy. The analysis includes data cleaning, visualization, and initial exploratory data analysis. It also provides a foundation for further time series analysis and forecasting.
 Overview
 The code is organized into several sections, each with a specific purpose. Here's a brief overview of what each section does:
