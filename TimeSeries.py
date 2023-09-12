@@ -11,7 +11,6 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 # Load the dataset from a CSV file (replace with your file path)
-#https://www.kaggle.com/datasets/mfindrik/aceawaterprediction
 data = pd.read_csv('Aquifer_Petrignano.csv')
 # Remove rows with missing 'Rainfall_Bastia_Umbra' values
 # Remove rows with missing 'Rainfall_Bastia_Umbra' values
