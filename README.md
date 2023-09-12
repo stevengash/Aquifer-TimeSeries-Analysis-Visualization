@@ -26,6 +26,7 @@ Time Series Decomposition
 
 ![Untitled](https://github.com/stevengash/Aquifer-TimeSeres-Analysis-Visualization/assets/99188129/fb7fc21e-5038-4e46-9046-d14c3e02f8e2)
 
+
 Autocorrelation and Partial Autocorrelation
 •	Autocorrelation and partial autocorrelation plots are generated for the 'depth_to_groundwater' time series.
 •	These plots help identify potential autoregressive and moving average components in the data, which can be useful for modeling.
