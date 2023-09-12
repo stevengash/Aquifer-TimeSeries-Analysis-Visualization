@@ -23,27 +23,9 @@ Data Visualization
 Time Series Decomposition
 •	Time series decomposition is performed on the 'depth_to_groundwater' column using the additive model with a seasonal period of 365 days.
 •	The decomposition results in three components: trend, seasonal, and residual.
-•	Plots of these components are created for visual inspection
+•	Plots of these components are created for visual inspection.
 
-
-
-
-
-
-
-![Untitled](https://github.com/stevengash/Aquifer-TimeSeres-Analysis-Visualization/assets/99188129/fb7fc21e-5038-4e46-9046-d14c3e02f8e2)
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/stevengash/Aquifer-TimeSeries-Analysis-Visualization/assets/99188129/96ba2f47-9b68-473b-8c88-52c2489ca62e)
 
 Autocorrelation and Partial Autocorrelation
 •	Autocorrelation and partial autocorrelation plots are generated for the 'depth_to_groundwater' time series.
